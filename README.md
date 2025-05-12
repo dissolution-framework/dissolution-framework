@@ -144,7 +144,6 @@ The Dissolution Protocol is available for commercial use under separate licensin
 
 Commercial licenses include:
 - Priority support and consultation
-- API access for automated testing
 - Custom test development
 - Integration assistance
 - Training and workshops
